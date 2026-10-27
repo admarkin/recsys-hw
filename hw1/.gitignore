@@ -1,0 +1,11 @@
+.venv/
+.tmp/
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.zip
+RAW_*.csv
+*.pt
+*.npz
+*.pkl
